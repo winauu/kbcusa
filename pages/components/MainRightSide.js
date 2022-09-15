@@ -1,15 +1,17 @@
 import React from 'react'
 import Image from 'next/image'
 import HomePagePastorsImg from './HomePagePastorsImg'
+
 function MainRightSide() {
   return (
     <div className='p-2 flex-1'>
-      <h1 className='text-3xl text-red-600 py-2'>ပကွဲမုာ််ဒီးတူူလိာ််မုာ််သု</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate aperiam molestias 
-        repellendus voluptatibus asperiores, distinctio assumenda, cum, itaque possimus deserunt error nesciunt dolore! Dignissimos 
-        illum hic eos velit rem, harum officia possimus labore veniam optio! Optio tempore recusandae neque ut.
+      <h1 className='text-3xl text-[#8C3420] py-2'>ပကွဲမုာ််ဒီးတူူလိာ််မုာ််သု</h1>
+      <p className='text-xl'>
+      ql y ySm ,JR o M vX t b. C; 'D; u vHR pd; cX. o; u 0DR u nD bsX xH c&Hm zd w{'>'} td. zSd. o ud; w{'>'} td. zSd. tHR M. vDRIA y u 0DR
+
+      pJ. t *h{'>'} t usdR Ckm 'D; w{'>'} *h{'>'} t *kR t *R oh. w z. y Ck xH. oh. ng tDR ohzJ y ySm ,JR o M t ylR tHR M. vDRI A rf c&Hm t w{'>'} Cl w{'>'} zd; vDR b. vX ok vdR xl; xl; wDR wDR ud; *R w uh{'>'} M. rh{'>'} y u 0DR t w{'>'} qX *hR ok M . vDRI
       </p>
-      <strong>AyXqSX w> u rH;wHR tqd u wX> wzk</strong>
+      <p className='text-red-500 text-2xl'>AyXqSX w{'>'} u rH;wHR tqd u wX{'>'} wzk</p>
       <div className='py-7'>
         <Image src='/images/homePageRightSideImages/churches-title.gif' width={492} height={33}/>
       </div>
