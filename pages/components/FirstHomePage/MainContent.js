@@ -35,7 +35,7 @@ const MainContent = () => {
       </Splide>
       
       <div className='min-h-screen bg-white p-2 flex'>
-        <MainLeftSide/>
+        <MainLeftSide />
         <MainRightSide/>
       </div>
 

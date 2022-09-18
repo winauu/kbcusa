@@ -1,8 +1,8 @@
 import React from 'react'
+import Footer from '../Footer'
+import Header from '../Header'
+import Navbar from '../Navbar'
 import ThirdMainContent from './ThirdMainContent'
-import Footer from './Footer'
-import Header from './Header'
-import Navbar from './Navbar'
 
 function ThirdHomePage() {
   return (

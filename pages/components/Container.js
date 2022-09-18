@@ -1,12 +1,12 @@
 import React from 'react'
 import Footer from './Footer'
 import Header from './Header'
-import MainContent from './MainContent'
 import Navbar from './Navbar'
 import Image from 'next/image'
+import MainContent from './FirstHomePage/MainContent'
 
 
-const HomePage = () => {
+const Container = () => {
   return (
     <div className='w-[1023px] mx-auto min-h-screen'>
         <Header/>
@@ -17,4 +17,4 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default Container

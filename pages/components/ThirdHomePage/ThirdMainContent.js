@@ -1,5 +1,6 @@
 import React from 'react'
-import HomePagePastorsImg from './HomePagePastorsImg'
+import HomePagePastorsImg from '../HomePagePastorsImg'
+
 function ThirdMainContent() {
   return (
     <div className='min-h-screen bg-white p-2'>
