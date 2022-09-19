@@ -11,11 +11,11 @@ function KarenBaptistChurchOfDenver() {
     <div className='w-[1023px] mx-auto min-h-screen'>
     <Header/>
     <Navbar/>
-    <Image src='/images/GreeleyGraceKarenBaptistChurchImage/Greeley Grace Karen Baptist Church.jpg' width={1024} height={260} />
+    <Image src='/images/KarenBaptistChurchOfDenverImage/First Karen Baptist Church of Denver.jpg' width={1024} height={260} />
     <div className='flex bg-white'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 
-        pic="/images/GreeleyGraceKarenBaptistChurchImage/NayLinTun.jpg"
+        pic="/images/KarenBaptistChurchOfDenverImage/Lar Moo.jpg"
         description="o&.tgpJ;rllw>td.zSd.o&."
         title2="w> bg t qX u wD>"
         title3="vXw>qJ;usd;t*D>"

@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.7.0",
     "@splidejs/react-splide": "^0.7.10",
     "@splidejs/splide-extension-auto-scroll": "^0.5.3",
+    "framer-motion": "^7.3.5",
     "next": "12.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",

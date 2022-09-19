@@ -8,6 +8,12 @@ body{
     margin: 0;
     font-family: KNU;
 }
+.bg{
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/pexels-lumn-167699.jpg');
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 
 

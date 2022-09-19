@@ -5,7 +5,7 @@ import HomePagePastorsImg from '../HomePagePastorsImg'
 function MainRightSide() {
   return (
     <div className='p-2 flex-1'>
-      <h1 className='text-3xl text-[#8C3420] py-2'>ပကွဲမုာ််ဒီးတူူလိာ််မုာ််သု</h1>
+      <h1 className='text-2xl text-[#8C3420] py-2'>ပကွဲမုာ််ဒီးတူူလိာ််မုာ််သု</h1>
       <p className='text-xl'>
       ql y ySm ,JR o M vX t b. C; 'D; u vHR pd; cX. o; u 0DR u nD bsX xH c&Hm zd w{'>'} td. zSd. o ud; w{'>'} td. zSd. tHR M. vDRIA y u 0DR
 
