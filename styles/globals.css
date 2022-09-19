@@ -14,6 +14,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.shadow{
+    text-shadow: -6px 4px #080808;
+}
 
 
 
