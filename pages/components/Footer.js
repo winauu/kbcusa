@@ -26,8 +26,8 @@ function Footer() {
           <Link href="/components/SecondHomePage/SecondHomePage">ဘၣ်ဃးဒီးကဝီၤအံၤ</Link>
           <Link href="/components/ThirdHomePage/ThirdHomePage">ကဝီၤကမံးတံာ်</Link>
           <Link href="/components/childrenMinistry/ChildrenMinistry">u 0DR AcIwဝဲၤကျိၤ</Link>
-          <Link href="/components/womenMinistry/WomenMinistry">u 0DR ydmrk. u&X </Link>
-          <Link href="/components/youthMinistry/YouthMinistry">u 0DR usJ; pX; u&X </Link>
+          {/* <Link href="/components/womenMinistry/WomenMinistry">u 0DR ydmrk. u&X </Link> */}
+          {/* <Link href="/components/youthMinistry/YouthMinistry">u 0DR usJ; pX; u&X </Link> */}
           <Link href="/components/SixHomePage/SixHomePage">တၢ်ဆဲးကျိး</Link>
         </div>
           <hr className='border-gray-500 border-[1px] h-[190px]'/>
