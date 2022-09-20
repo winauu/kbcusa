@@ -14,11 +14,11 @@ function GraceKarenBaptistChurch() {
     <Image src='/images/GraceKarenBaptistChurchImage/Grace Karen Baptist Church.gif' width={1024} height={260} alt='grace'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
-        title="w>td.zSd.o&." 
+        title="ss" 
         pic="/images/GraceKarenBaptistChurchImage/pastor.gif"
-        description="o&.tgpJ;rllw>td.zSd.o&."
-        title2="w> bg t qX u wD>"
-        title3="vXw>qJ;usd;t*D>"
+        description="as"
+        title2="sas"
+        title3="sasa"
         />
       <ContentTemplatesRight/>
     </div>

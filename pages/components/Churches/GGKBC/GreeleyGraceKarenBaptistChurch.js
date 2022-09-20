@@ -14,11 +14,11 @@ function GreeleyGraceKarenBaptistChurch() {
     <Image src='/images/GreeleyGraceKarenBaptistChurchImage/Greeley Grace Karen Baptist Church.jpg' width={1024} height={260} alt='greeley'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
-          title="w>td.zSd.o&." 
+          title="ok" 
           pic="/images/GreeleyGraceKarenBaptistChurchImage/NayLinTun.jpg"
-          description="o&.tgpJ;rllw>td.zSd.o&."
-          title2="w> bg t qX u wD>"
-          title3="vXw>qJ;usd;t*D>"
+          description="s"
+          title2="ss"
+          title3="a"
           />
       <ContentTemplatesRight/>
     </div>

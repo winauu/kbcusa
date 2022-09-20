@@ -14,11 +14,11 @@ function OmahaKnyawBaptistChurch() {
     <Image src='/images/OmahaKnyawBaptistChurchImage/Omaha Knyaw Baptist Church.jpg' width={1024} height={260} alt='knyaw'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
-        title="w>td.zSd.o&." 
+        title="saas" 
         pic="/images/OmahaKnyawBaptistChurchImage/RevKweKbaw.jpg"
-        description="o&.tgpJ;rllw>td.zSd.o&."
-        title2="w> bg t qX u wD>"
-        title3="vXw>qJ;usd;t*D>"
+        description="saas"
+        title2="sa"
+        title3="a"
         />
       <ContentTemplatesRight/>
     </div>

@@ -13,11 +13,11 @@ function KarenBaptistChurchOfLincoln() {
     <Image src='/images/KarenBaptistChurchOfLincolnImage/Lincoln Karen Baptist Church.jpg' width={1024} height={260} alt='lincoln'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
-        title="w>td.zSd.o&." 
+        title="sasa" 
         pic="/images/KarenBaptistChurchOfLincolnImage/Isaac.jpg"
-        description="o&.tgpJ;rllw>td.zSd.o&."
-        title2="w> bg t qX u wD>"
-        title3="vXw>qJ;usd;t*D>"
+        description="a"
+        title2="kjlk"
+        title3="n"
         />
       <ContentTemplatesRight/>
     </div>

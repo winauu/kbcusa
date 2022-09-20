@@ -17,7 +17,6 @@ import {
 function Footer() {
   return (
     <div className='bg h-54 text-white'>
-      {/* <Image src='/images/footerImages/footer1.gif' width='1024' height='227'/> */}
       <div className='flex justify-evenly px-10'>
       <div className='flex items-center space-x-10'>
         <div className='flex flex-col py-5'>
@@ -25,9 +24,9 @@ function Footer() {
           <Link href='/'>ကဘျံးပၤတၢ</Link>
           <Link href="/components/SecondHomePage/SecondHomePage">ဘၣ်ဃးဒီးကဝီၤအံၤ</Link>
           <Link href="/components/ThirdHomePage/ThirdHomePage">ကဝီၤကမံးတံာ်</Link>
-          <Link href="/components/childrenMinistry/ChildrenMinistry">u 0DR AcIwဝဲၤကျိၤ</Link>
-          {/* <Link href="/components/womenMinistry/WomenMinistry">u 0DR ydmrk. u&X </Link> */}
-          {/* <Link href="/components/youthMinistry/YouthMinistry">u 0DR usJ; pX; u&X </Link> */}
+          <Link href="/components/childrenMinistry/ChildrenMinistry">ဝဲၤကျိၤ</Link>
+          <Link href="/components/womenMinistry/WomenMinistry">ok</Link>
+          <Link href="/components/youthMinistry/YouthMinistry">ok</Link>
           <Link href="/components/SixHomePage/SixHomePage">တၢ်ဆဲးကျိး</Link>
         </div>
           <hr className='border-gray-500 border-[1px] h-[190px]'/>
