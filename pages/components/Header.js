@@ -10,14 +10,14 @@ function Header() {
             height={129}
         /> */}
         <div>
-          <Image src='/Removal-844.png' width={140} height={140}/>
+          <Image src='/kbcusalogo.png' width={140} height={140}/>
         </div>
         <div className='text-4xl'>
           <h1 className='font-sans pb-3'>Central North Area</h1>
           <p>ခၢၣ်သးကလံၤကဝီၤ</p>
         </div>
         <div>
-          <h1 className='font-sans text-6xl text-red-600 shadow'>KBCUSA</h1>
+          <h1 className='header-font text-6xl text-red-600 shadow'>KBCUSA</h1>
         </div>
     </div>
   )
