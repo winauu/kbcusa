@@ -10,7 +10,7 @@ function Header() {
             height={129}
         /> */}
         <div>
-          <Image src='/kbcusalogo.png' width={140} height={140}/>
+          <Image src='/kbcusalogo.png' width={140} height={140} alt='logo'/>
         </div>
         <div className='text-4xl'>
           <h1 className='font-sans pb-3'>Central North Area</h1>

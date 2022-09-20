@@ -11,7 +11,7 @@ function KarenEbenezerBaptistChurch() {
     <div className='w-[1023px] mx-auto min-h-screen'>
     <Header/>
     <Navbar/>
-    <Image src='/images/KarenEbenezerBaptistChurchImage/Ebenezer Karen Baptist Church.jpg' width={1024} height={260} />
+    <Image src='/images/KarenEbenezerBaptistChurchImage/Ebenezer Karen Baptist Church.jpg' width={1024} height={260} alt='ebenezer'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 

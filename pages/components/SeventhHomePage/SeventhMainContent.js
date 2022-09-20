@@ -4,7 +4,7 @@ import Image from 'next/image'
 function SeventhMainContent() {
   return (
     <div>
-      <Image src='/images/SeventhlinkImages/record.jpeg' width={1024} height={260} />
+      <Image src='/images/SeventhlinkImages/record.jpeg' width={1024} height={260} alt='record'/>
       <div className='min-h-screen bg-white p-2'>
           <div className='w-3/4 mx-auto'>
             <h1 className='text-[#8C3420] text-3xl text-center py-3'>uvHRpd;cX.o;u0DRAw{'>'}uGJ;eD.Awz.</h1>

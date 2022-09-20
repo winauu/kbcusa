@@ -11,7 +11,7 @@ function OmahaKnyawBaptistChurch() {
     <div className='w-[1023px] mx-auto min-h-screen'>
     <Header/>
     <Navbar/>
-    <Image src='/images/OmahaKnyawBaptistChurchImage/Omaha Knyaw Baptist Church.jpg' width={1024} height={260} />
+    <Image src='/images/OmahaKnyawBaptistChurchImage/Omaha Knyaw Baptist Church.jpg' width={1024} height={260} alt='knyaw'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 

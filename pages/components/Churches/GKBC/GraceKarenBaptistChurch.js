@@ -11,7 +11,7 @@ function GraceKarenBaptistChurch() {
     <div className='w-[1023px] mx-auto min-h-screen'>
     <Header/>
     <Navbar/>
-    <Image src='/images/GraceKarenBaptistChurchImage/Grace Karen Baptist Church.gif' width={1024} height={260} />
+    <Image src='/images/GraceKarenBaptistChurchImage/Grace Karen Baptist Church.gif' width={1024} height={260} alt='grace'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 

@@ -42,7 +42,7 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
             </div>
             <div>
               <p>u0DRydmrk.u&X</p>
-              <p>o&.rk.zJ0grk></p>
+              <p>o&.rk.zJ0grk{'>'}</p>
               <p className='font-sans'>pwah@kbcusacn.org</p>
               <p className='font-sans'>402-594-4502</p>
               <p>o&.rk.%SJz</p>
@@ -52,19 +52,19 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
            <div>
             <div className='pb-5'>
               <p>u0DRusJ;pX;u&X</p>
-              <p>eD>unDzDpd</p>
+              <p>eD{'>'}unDzDpd</p>
               <p className='font-sans'>kpawsoe@kbcusacn.org</p>
               <p className='font-sans'>816-606-3041</p>
               <p>o&.rk.q.vDRtJ.</p>
               <p className='font-sans'>402-314-1810</p>
             </div>
             <div>
-              <p>u0DRc&Hmzdw>od.vd0JRusdR</p>
+              <p>u0DRc&Hmzdw{'>'}od.vd0JRusdR</p>
               <p>o&.rk.'d. 'bd&RA</p>
               <p className='font-sans'>720-216-3173</p>
               <div className='flex items-center pt-5'>
                 <p className='font-sans'>Email provider: </p>
-                <Image src='/images/emailjs-removebg-preview (1).png' width='90px' height='80px'/><span className='font-bold text-orange-500 font-sans'>EmailJs</span>
+                <Image src='/images/emailjs-removebg-preview (1).png' width='90px' height='80px' alt='emailjs'/><span className='font-bold text-orange-500 font-sans'>EmailJs</span>
               </div>
             </div>
            </div>

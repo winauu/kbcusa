@@ -4,7 +4,7 @@ import Image from 'next/image'
 function WomenMainContent() {
   return (
     <div>
-    <Image src='/images/WomenMinistryImage/women2015.jpg' width={1024} height={260} objectFit='cover'/>
+    <Image src='/images/WomenMinistryImage/women2015.jpg' width={1024} height={260} objectFit='cover' alt='women'/>
     <div className='min-h-screen bg-white p-2'>
         <div className='w-3/4 mx-auto'>
           <h1 className='text-red-500 text-3xl text-center py-3'>ကလံၤစိးထဃၣ်သးကဝီၤတၢ်စံၣ်စိၤကဘျံးပၤ</h1>
