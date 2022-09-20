@@ -3,8 +3,9 @@ import Image from 'next/image'
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 import '@splidejs/react-splide/css';
 import { AutoScroll } from '@splidejs/splide-extension-auto-scroll';
-import MainLeftSide from './MainLeftSide';
-import MainLeftSide from './MainLeftSide';
+import MainContentLeftSide from './MainContentLeftSide';
+import MainContentRightSide from './MainContentRightSide';
+
 
 
 
@@ -37,8 +38,9 @@ const MainContent = () => {
       </Splide>
       
       <div className='min-h-screen bg-white p-2 flex'>
-        <MainLeftSide />
-        <MainRightSide/>
+        <MainContentLeftSide/>
+        <MainContentRightSide/>
+        
       </div>
 
     </div>

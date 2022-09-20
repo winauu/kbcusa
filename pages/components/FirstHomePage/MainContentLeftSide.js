@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-function MainLeftSide() {
+function MainContentLeftSide() {
   return (
     <div className='flex flex-col border-r-[1px] gap-y-5 pr-2 border-black w-[250px]'>
       <Image src='/images/homePageLeftSideImages/sidebarpic.gif' width='245px' height='81px' alt='sidebarpic'/>
@@ -56,4 +56,4 @@ function MainLeftSide() {
   )
 }
 
-export default MainLeftSide
+export default MainContentLeftSide

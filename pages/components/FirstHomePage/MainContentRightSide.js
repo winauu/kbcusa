@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import HomePagePastorsImg from '../HomePagePastorsImg'
 
-function MainRightSide() {
+function MainContentRightSide() {
   return (
     <div className='p-2 flex-1'>
       <h1 className='text-2xl text-[#8C3420] py-2'>ပကွဲမုာ််ဒီးတူူလိာ််မုာ််သု</h1>
@@ -46,4 +46,4 @@ c&Hmzdw>td.zSd.
   )
 }
 
-export default MainRightSide
+export default MainContentRightSide
