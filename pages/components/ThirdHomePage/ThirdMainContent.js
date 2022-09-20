@@ -14,7 +14,7 @@ function ThirdMainContent() {
         <HomePagePastorsImg img='/images/ThirdLinkImages/preehtoo.gif' definition='ဘၣ်ဆိၣ်ဂ့ၤကညီီဘျၢ' alt='preehtoo'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/The Blay Moo.jpg' definition='loremh akija hdslo aoiu ahd' alt='blaymoo'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/Thar Julia.jpg' definition='loremh akija hdslo aoiu ahd' alt='julia'/>
-        <HomePagePastorsImg img='/images/ThirdLinkImages/Thar Moo Star.jpg' definition='loremh akija hdslo aoiu ahd' alt='tharmoostar'/>
+        <HomePagePastorsImg img='/images/ThirdLinkImages/Thar Moo Star.jpg' definition='loremh akija hdslo aoiu ahd' alt='moostar'/>
       </div>
     </div>
   )
