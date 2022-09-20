@@ -6,7 +6,7 @@ body{
     background-color: #323a3f;
     padding: 0;
     margin: 0;
-    /* font-family: KNU; */
+    font-family: KNU;
 }
 .bg{
     background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/pexels-lumn-167699.jpg');

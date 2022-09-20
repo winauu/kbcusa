@@ -18,7 +18,7 @@ function MainContentRightSide() {
         <HomePagePastorsImg img='/images/homePageRightSideImages/Isaac.jpg' definition="hello" alt='Isaac'/>
         <HomePagePastorsImg img='/images/homePageRightSideImages/Lar Moo.jpg' definition="hello" alt='larMoo'/>
         <HomePagePastorsImg img='/images/homePageRightSideImages/NayLinTun.jpg' definition="hello" alt='NayLinTun'/>
-        <HomePagePastorsImg img='/images/homePageRightSideImages/Debora.jpg' definition="unDbsXxH `&#125;c&Hm` zd thR bhR M p> w> td. zSd. (cd.vd.&.'d>)" alt='debora'/> 
+        <HomePagePastorsImg img='/images/homePageRightSideImages/Debora.jpg' definition="unDbsXxH c&Hm zd thR bhR M p> w> td. zSd. (cd.vd.&.'d>)" alt='debora'/> 
          <HomePagePastorsImg img='/images/homePageRightSideImages/EhNayMoo.jpg' definition="hello" alt='EhNayMoo'/> 
         <HomePagePastorsImg img='/images/homePageRightSideImages/Tee Moh Bwar Karen Baptist Church.jpg' definition="hello" alt='TeeMohBwar'/> 
         <HomePagePastorsImg img='/images/homePageRightSideImages/Thar Hsa Eh Wah.gif' definition="hello" alt='EhWah'/>
