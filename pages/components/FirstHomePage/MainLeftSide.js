@@ -10,7 +10,7 @@ function MainLeftSide() {
       <Image src='/images/homePageLeftSideImages/Calendar.gif' width='245px' height='81px' alt='calender'/>
       <Image src='/images/homePageLeftSideImages/KTSC Application form.gif'width='245px' height='81px' alt='applicationform'/>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>vDwJpdw{'>'}td.zSd.vX u0DR w{'>'}rRvdcHbsDwbsD*D{'>'}</h1>
+        {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>vDwJpdw{'>'}td.zSd.vX u0DR w{'>'}rRvdcHbsDwbsD*D{'>'}</h1> */}
       </Link>
       <Link href='/'>
         {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'} w{'>'}bsXcd.oh.</h1> */}
@@ -19,7 +19,7 @@ function MainLeftSide() {
         {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'}'D;0JRusdRwz. w{'>'}td.zSd.'D;w{'>'}rRvdwz.t*h{'>'}</h1> */}
       </Link>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[230px]'>w{'>'}bd;b.oh.ng'D; vHmw{'>'}uGJrkm b.C;w{'>'}o;ckupD.0JRusdRw{'>'}rRvd</h1>
+        {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[230px]'>w{'>'}bd;b.oh.ng'D; vHmw{'>'}uGJrkm b.C;w{'>'}o;ckupD.0JRusdRw{'>'}rRvd</h1> */}
       </Link>
       <Link href='/'>
         {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[240px]'>w{'>'}bd;b.oh.ng 'D; vHmw{'>'}uGJrkm b.C; c&Hmzd w{'>'}ul. b.ul.oh 0JRusdR w{'>'}rRvd</h1> */}
@@ -37,10 +37,10 @@ function MainLeftSide() {
         {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>o&.orgw{'>'}&hvdmrkmvdm u&Xzd vHmtk.o;</h1> */}
       </Link>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>w{'>'}td.zSd.vHmuvlRt'd</h1>
+        {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>w{'>'}td.zSd.vHmuvlRt'd</h1> */}
       </Link>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'> u0DRA vHm wl{'>'} vdm ph</h1>
+        {/* <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'> u0DRA vHm wl{'>'} vdm ph</h1> */}
       </Link>
 
      
