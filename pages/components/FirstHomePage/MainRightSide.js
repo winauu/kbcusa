@@ -13,7 +13,7 @@ function MainRightSide() {
       </p>
       {/* <p className='text-red-500 text-2xl'>AyXqSX w{'>'} u rH;wHR tqd u wX{'>'} wzk</p> */}
       <div className='py-7'>
-        <Image src='/images/homePageRightSideImages/churches-title.gif' width={492} height={33}/>
+        <Image src='/images/homePageRightSideImages/churches-title.gif' width={492} height={33} alt='churchestitle'/>
       </div>
       <div className='flex flex-wrap gap-5'>
         {/* <HomePagePastorsImg img='/images/homePageRightSideImages/pastor.gif' definition="b. qd. *hR u nD bsX xH c&Hm zd w> td. zSd.

@@ -1,10 +1,10 @@
 import React from 'react'
 import Footer from '../../Footer'
 import Header from '../../Header'
-import ContentTemplatesLeft from '../../LeftAndRightContent/ContentTemplatesLeft'
-import ContentTemplatesRight from '../../LeftAndRightContent/ContentTemplatesRight'
 import Navbar from '../../Navbar'
 import Image from 'next/image'
+import ContentTemplatesLeft from '../../LeftAndRightContent/ContentTemplatesLeft'
+import ContentTemplatesRight from '../../LeftAndRightContent/ContentTemplatesRight'
 function KarenBaptistChurchOfLincoln() {
   return (
     <div className='w-[1023px] mx-auto min-h-screen'>
