@@ -16,16 +16,16 @@ function MainContentLeftSide() {
         <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'} w{'>'}bsXcd.oh.</h1>
       </Link>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'}'D;0JRusdRwz. w{'>'}td.zSd.'D;w{'>'}rRvdwz.t*h{'>'}</h1>
+        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'}`&apos;`D;0JRusdRwz. w{'>'}td.zSd.`&apos;`D;w{'>'}rRvdwz.t*h{'>'}</h1>
       </Link>
       <Link href='/'>
         <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[230px]'>w{'>'}bd;b.oh.ng'D; vHmw{'>'}uGJrkm b.C;w{'>'}o;ckupD.0JRusdRw{'>'}rRvd</h1>
       </Link>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[240px]'>w{'>'}bd;b.oh.ng 'D; vHmw{'>'}uGJrkm b.C; c&Hmzd w{'>'}ul. b.ul.oh 0JRusdR w{'>'}rRvd</h1>
+        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[240px]'>w{'>'}bd;b.oh.ng `&apos;`D; vHmw{'>'}uGJrkm b.C; c&Hmzd w{'>'}ul. b.ul.oh 0JRusdR w{'>'}rRvd</h1>
       </Link>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u0DRw{'>'}ymzsg ql u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z;'d. t'd</h1>
+        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u0DRw{'>'}ymzsg ql u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z;`&apos;`d. t`&apos;`d</h1>
       </Link>
       <Link href='/'>
         <h1 className='text-2xl border-b-black border-b-[.5px] font-bold font-sans'>KBCUSA 501c3 Group Exemption</h1>
@@ -37,7 +37,7 @@ function MainContentLeftSide() {
         <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>o&.orgw{'>'}&hvdmrkmvdm u&Xzd vHmtk.o;</h1>
       </Link>
       <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>w{'>'}td.zSd.vHmuvlRt'd</h1>
+        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>w{'>'}td.zSd.vHmuvlRt`&apos;`d</h1>
       </Link>
       <Link href='/'>
         <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'> u0DRA vHm wl{'>'} vdm ph</h1>
