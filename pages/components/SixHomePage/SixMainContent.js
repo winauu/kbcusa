@@ -36,7 +36,7 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
            <div>
             <div className='pb-5'>
               <p>u0DR</p>
-              <p>o&.ed.'h</p>
+              <p>o&.ed.`&apos;`h</p>
               <p className='font-sans'>pdee@kbcusacn.org</p>
               <p className='font-sans'>402-601-9414</p>
             </div>
@@ -60,7 +60,7 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
             </div>
             <div>
               <p>u0DRc&Hmzdw{'>'}od.vd0JRusdR</p>
-              <p>o&.rk.'d. 'bd&RA</p>
+              <p>o&.rk.`&apos;`d. `&apos;`bd&RA</p>
               <p className='font-sans'>720-216-3173</p>
               <div className='flex items-center pt-5'>
                 <p className='font-sans'>Email provider: </p>
