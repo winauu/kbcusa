@@ -63,7 +63,11 @@ function MainContentLeftSide() {
       <iframe width="245" height="170"
         src="https://www.youtube.com/embed/videoseries?list=PLiS_aW9RRE7tEvKKh2oKZ55Her7cfw9I7">
       </iframe>
-      <Image src='/images/homePageLeftSideImages/facebook3.jpg'width='245px' height='130px' alt='facebook3'/>
+      <Link href="https://www.facebook.com/lermumar/?ref=hl">
+        <a target="_blank">
+          <Image src='/images/homePageLeftSideImages/facebook3.jpg'width='245px' height='130px' alt='facebook3'/>
+        </a>
+      </Link>
     </div>
   )
 }

@@ -77,8 +77,16 @@ function Footer() {
         <div className='flex flex-col py-5 font-sans'>
           <h1 className='font-sans text-purple-500 text-xl pb-2'>Find Us On</h1>
           <div className='flex space-x-6'>
-            <FaFacebookF className='text-blue-500 text-3xl'/>
-            <FaYoutube className='text-red-500 text-3xl'/>
+            <Link href="https://www.facebook.com/lermumar/">
+              <a target="_blank">
+                <FaFacebookF className='text-blue-500 text-3xl'/>
+              </a>
+            </Link>
+            <Link href="https://www.youtube.com/user/KBCUSACN">
+              <a target="_blank">
+                <FaYoutube className='text-red-500 text-3xl'/>
+              </a>
+            </Link>
           </div>
           <div className='opacity-0'>
             <div className='flex space-x-6'>
