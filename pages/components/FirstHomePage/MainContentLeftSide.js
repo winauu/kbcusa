@@ -9,43 +9,43 @@ function MainContentLeftSide() {
       <Image src='/images/homePageLeftSideImages/facebook.gif' width='245px' height='81px' alt='facebook'/>
       <Image src='/images/homePageLeftSideImages/Calendar.gif' width='245px' height='81px' alt='calender'/>
       <Image src='/images/homePageLeftSideImages/KTSC Application form.gif'width='245px' height='81px' alt='applicationform'/>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>vDwJpdw{'>'}td.zSd.vX u0DR w{'>'}rRvdcHbsDwbsD*D{'>'}</h1>
+      <Link href='/resources/Meeting_report/Meeting 10/Phone meeting for CN training second time.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>vDwJpdw{'>'}td.zSd.vX u0DR w{'>'}rRvdcHbsDwbsD*D{'>'}</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'} w{'>'}bsXcd.oh.</h1>
+      <Link href='/resources/downloads/KBCUSA ByLaw.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'} w{'>'}bsXcd.oh.</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'}`&apos;`D;0JRusdRwz. w{'>'}td.zSd.`&apos;`D;w{'>'}rRvdwz.t*h{'>'}</h1>
+      <Link href='/resources/Meeting_report/KBCUSA department training 2016.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'}`&apos;`D;0JRusdRwz. w{'>'}td.zSd.`&apos;`D;w{'>'}rRvdwz.t*h{'>'}</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[230px]'>w{'>'}bd;b.oh.ng`&apos;`D; vHmw{'>'}uGJrkm b.C;w{'>'}o;ckupD.0JRusdRw{'>'}rRvd</h1>
+      <Link href='/resources/Meeting_report/KBCUSA evangelical department training 2016.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold w-[230px]'>w{'>'}bd;b.oh.ng`&apos;`D; vHmw{'>'}uGJrkm b.C;w{'>'}o;ckupD.0JRusdRw{'>'}rRvd</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold w-[240px]'>w{'>'}bd;b.oh.ng `&apos;`D; vHmw{'>'}uGJrkm b.C; c&Hmzd w{'>'}ul. b.ul.oh 0JRusdR w{'>'}rRvd</h1>
+      <Link href='/resources/Meeting_report/KBCUSA religion education training 2016.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold w-[240px]'>w{'>'}bd;b.oh.ng `&apos;`D; vHmw{'>'}uGJrkm b.C; c&Hmzd w{'>'}ul. b.ul.oh 0JRusdR w{'>'}rRvd</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u0DRw{'>'}ymzsg ql u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z;`&apos;`d. t`&apos;`d</h1>
+      <Link href='/resources/Meeting_report/kbcusa regional report.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold'>u0DRw{'>'}ymzsg ql u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z;`&apos;`d. t`&apos;`d</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold font-sans'>KBCUSA 501c3 Group Exemption</h1>
+      <Link href='/resources/Meeting_report/KBCUSA 501c3 exemptions.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold font-sans'>KBCUSA 501c3 Group Exemption</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z;`&apos;`d. w{'>'}qJ;vDRrHR vHmywH</h1>
+      <Link href='/resources/Meeting_report/KBCUSA annual meeting 2016.pdf'>
+        <a target='_blank'  className='text-2xl border-b-black border-b-[.5px] font-bold'>u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z;`&apos;`d. w{'>'}qJ;vDRrHR vHmywH</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>o&.orgw{'>'}&hvdmrkmvdm u&Xzd vHmtk.o;</h1>
+      <Link href='/resources/Meeting_report/KBCUSA minister conference 3-21.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold'>o&.orgw{'>'}&hvdmrkmvdm u&Xzd vHmtk.o;</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>w{'>'}td.zSd.vHmuvlRt`&apos;`d</h1>
+      <Link href='/resources/Meeting_report/Report for church.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold'>w{'>'}td.zSd.vHmuvlRt`&apos;`d</a>
       </Link>
-      <Link href='/'>
-        <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'> u0DRA vHm wl{'>'} vdm ph</h1>
+      <Link href='/resources/downloads/KBCUSA CN Receipt.pdf'>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold'> u0DRA vHm wl{'>'} vdm ph</a>
       </Link>
 
      
       <Image src='/images/homePageLeftSideImages/reporttitle.gif'width='245px' height='33px' alt='reportitle'/>
-      <Link href='/'>
+      <Link href='/components/SeventhHomePage/SeventhHomePage'>
         <h1 className='text-2xl border-b-black border-b-[.5px] font-bold'>uvHRpd;cX.o;u0DR unDbsXxHc&Hmzdw{'>'}td.zSd. tw{'>'}uGJ;eD.wz.</h1>
       </Link>
       <iframe width="245" height="170"

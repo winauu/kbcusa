@@ -21,7 +21,7 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
     }
   return (
       <div className='min-h-screen  bg-white p-2'>
-      <div className='w-[350px] mx-auto '>
+      <div className='w-[250px] mx-auto '>
     `  <h1 className='text-center text-3xl py-5'>euGJ;tdOoud;yS:zJtH:ohvD:.</h1>
         <form ref={form} onSubmit={sendEmail} className='flex flex-col gap-y-1'>
           <input className='border-[1px] rounded px-2 border-black font-sans' type="text" placeholder='Subject' name='subject' required/>
