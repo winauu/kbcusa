@@ -3,14 +3,14 @@ import React from 'react'
 function GraceLeft2() {
   return (
     <div>
-      <span class="kh2">td.qd;w&gt;vD&gt;</span>
+      <span class="kh2">td.qd;w&gt;vD&gt;</span><br />
       <span className='font-sans'><strong>Grace Baptist Church</strong><br/>
       3101 NE,Vivion Road, Kansas City, Mo, 64119 <br/>
       <br/>
       </span>
       <span class="k2"><strong>b. qd. *hR u nD bsX xH c&amp;Hm zd w&gt; td. zSd.</strong></span>
       <span className='font-sans'><br/>
-      1617 NE, Vivion Road, Apt 17 U,  Kansas City ,Mo, 64118 </span>
+      1617 NE, Vivion Road, Apt 17 U,  Kansas City ,Mo, 64118 </span><br />
       <span class="kh2">vDwJpdeD.*H&gt;rh&gt;0J</span>
       <span class="k2"><br/>
       1IA zk cg rh=A<br/>

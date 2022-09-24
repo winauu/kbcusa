@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
+import {checkout} from "../../checkout"
 import { 
    FaRegCopyright,
    FaFacebookF, 
@@ -12,22 +13,58 @@ import {
    FaCcAmex
   } 
    from 'react-icons/fa';
+import { checkCustomRoutes } from 'next/dist/lib/load-custom-routes';
 
 
 function Footer() {
+  const footerLinks = [
+    {
+      id: 1,
+      title: "ကဘျံးပၤတၢ" ,
+      link: '/'
+    },
+    {
+      id: 2,
+      title: "ဘၣ်ဃးဒီးကဝီၤအံၤ" ,
+      link: "/components/SecondHomePage/SecondHomePage"
+    },
+    {
+      id: 3,
+      title: "ကဝီၤကမံးတံာ်" ,
+      link: "/components/ThirdHomePage/ThirdHomePage"
+    },
+    {
+      id: 4,
+      title: "ကဝီၤခတဝဲၤကျိၤ" ,
+      link: "/components/childrenMinistry/ChildrenMinistry"
+    },
+    {
+      id: 5,
+      title: "ကဝီၤဝီာ်မုၣ်ကရၤ" ,
+      link: "/components/womenMinistry/WomenMinistry"
+    },
+    {
+      id: 6,
+      title: "ကဝီၤကျဲးစၢးကရၢ" ,
+      link: "/components/youthMinistry/YouthMinistry"
+    },
+    {
+      id: 7,
+      title: "တၢ်ဆဲးကျိး" ,
+      link: "/components/SixHomePage/SixHomePage"
+    },
+  ];
   return (
     <div className='bg h-54 text-white'>
       <div className='flex justify-evenly px-10'>
       <div className='flex items-center space-x-10'>
         <div className='flex flex-col py-5'>
           <h1 className='font-sans text-purple-500 text-xl pb-2'>Home</h1>
-          <Link href='/'>ကဘျံးပၤတၢ</Link>
-          <Link href="/components/SecondHomePage/SecondHomePage">ဘၣ်ဃးဒီးကဝီၤအံၤ</Link>
-          <Link href="/components/ThirdHomePage/ThirdHomePage">ကဝီၤကမံးတံာ်</Link>
-          <Link href="/components/childrenMinistry/ChildrenMinistry">ဝဲၤကျိၤ</Link>
-          <Link href="/components/womenMinistry/WomenMinistry">ok</Link>
-          <Link href="/components/youthMinistry/YouthMinistry">ok</Link>
-          <Link href="/components/SixHomePage/SixHomePage">တၢ်ဆဲးကျိး</Link>
+          {footerLinks.map(link => (
+            <Link href={`${link.link}`}>
+              <p key={link.id} className='hover:text-purple-500 cursor-pointer'>{link.title}</p>
+            </Link>
+          ))}
         </div>
           <hr className='border-gray-500 border-[1px] h-[190px]'/>
       </div>
@@ -36,9 +73,18 @@ function Footer() {
           <h1 className='font-sans text-purple-500 text-xl pb-2'>Donate</h1>
           <div className='flex space-x-2'>
             <div>
-              <Link href='/'>
+              <div onClick={(() => {
+            checkout({
+              lineItems: [
+                {
+                  price: "price_1LlIm8EtRFSkR2CjnWO6RTYp",
+                  quantity: 1,
+                }
+              ]
+            })
+          })}>
                 <FaCcPaypal className='text-6xl '/>
-              </Link>
+              </div>
               <Link href='/'>
                 <FaCcVisa className='text-6xl'/>
               </Link>
