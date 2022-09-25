@@ -6,7 +6,7 @@ import ThirdMainContent from './ThirdMainContent'
 
 function ThirdHomePage() {
   return (
-    <div className='w-[1023px] mx-auto min-h-screen'>
+    <div className='w-[1023px] bg-white mx-auto min-h-screen'>
         <Header/>
         <Navbar/>
         <ThirdMainContent/>

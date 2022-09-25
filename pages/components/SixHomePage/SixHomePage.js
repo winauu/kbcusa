@@ -11,7 +11,7 @@ function SixHomePage() {
   return (
     <div>
       {handleSubmit ? <EmailSent/> : 
-      <div className='w-[1023px] mx-auto min-h-screen'>
+      <div className='w-[1023px] bg-white mx-auto min-h-screen'>
         <Header/>
         <Navbar/>
         <SixMainContent  handleSubmit={handleSubmit} setHandleSumbit={setHandleSumbit}/>

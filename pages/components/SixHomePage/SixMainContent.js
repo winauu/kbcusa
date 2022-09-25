@@ -20,10 +20,9 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
         e.target.reset();
     }
   return (
-      <div className='min-h-screen  bg-white p-2'>
-      <div className='w-[250px] mx-auto '>
+      <div className='min-h-screen p-2 mx-auto '>
     `  <h1 className='text-center text-3xl py-5'>euGJ;tdOoud;yS:zJtH:ohvD:.</h1>
-        <form ref={form} onSubmit={sendEmail} className='flex flex-col gap-y-1'>
+        <form ref={form} onSubmit={sendEmail} className='w-[450px] justify-center flex flex-col mx-auto gap-y-1'>
           <input className='border-[1px] rounded px-2 border-black font-sans' type="text" placeholder='Subject' name='subject' required/>
           <input className='border-[1px] rounded px-2 border-black font-sans' type="text" placeholder='Name' name='name' required/>
           <input className='border-[1px] rounded px-2 border-black font-sans'  type="text" placeholder='Email' name='email' required/>
@@ -31,8 +30,8 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
           <textArea className='border-[1px] rounded px-2 border-black font-sans'  type="text" placeholder='Message' name='message' required/>
           <button className='bg-purple-700 text-white h-10 rounded px-2 font-sans' type='submit'>Submit</button>
         </form>
-         <h1 className='text-3xl py-5'>wIqJ;usd;vDI</h1>
-         <div className='flex justify-between space-x-40'>
+         <h1 className='text-3xl py-5 text-center'>wIqJ;usd;vDI</h1>
+         <div className='flex justify-center space-x-10'>
            <div>
             <div className='pb-5'>
               <p>u0DR</p>
@@ -69,8 +68,6 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
             </div>
            </div>
          </div>
-      </div>
-      
       </div>
   )
 }
