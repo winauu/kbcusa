@@ -18,7 +18,7 @@ function MainContentLeftSide() {
       </Link>
       <Link href="/resources/Meeting_report/KTSC Application Form.pdf">
         <a target="_blank">
-          <Image src='/images/homePageLeftSideImages/KTSC Application form.gif'width='270px' height='81px' alt='applicationform'/>
+          <Image src='/images/homePageLeftSideImages/applicationform.gif' width='270px' height='81px' alt='applicationform'/>
         </a>
       </Link>
       <Link href='/resources/Meeting_report/Meeting 10/Phone meeting for CN training second time.pdf'>
