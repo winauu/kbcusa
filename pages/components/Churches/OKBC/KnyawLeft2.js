@@ -1,4 +1,3 @@
-import React from 'react'
 
 function KnyawLeft2() {
   return (
@@ -16,7 +15,7 @@ function KnyawLeft2() {
       </span>
       <span class="k2">
         1IA w &gt; td. zSd. o &amp;. A= A<br/>
-        o &amp;. 'd. uGJ&gt;ubD A = <br/>531 233 7068A&nbsp;</span>
+        o &amp;. &apos;d. uGJ&gt;ubD A = <br/>531 233 7068A&nbsp;</span>
         <span class="k2"> <br/>
       <br/>
       2IA w&gt; td. zSd. eJ. %GJ.A = A<br/>

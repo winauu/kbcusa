@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function DenverLeft2() {
   return (
@@ -15,7 +15,7 @@ function DenverLeft2() {
         <span class="kh2">vDwJpdeD.*H&gt;rh&gt;0J</span>
         <span class="k2"><br/>
           1IA w &gt; td. zSd. o &amp;. A= A<br/>
-          o &amp;. 'd. vX&gt; rl r; wh.=A<br/>
+          o &amp;. &apos;d. vX&gt; rl r; wh.=A<br/>
         </span>
         <span className='font-sans'>720-436-7713</span>
         <span class="k2"> <br/>

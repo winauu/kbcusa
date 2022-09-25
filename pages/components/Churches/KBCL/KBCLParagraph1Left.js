@@ -16,7 +16,7 @@ function KBCLParagraph1Left() {
         </p>
         <br/>
         <span class="kh2">td.bSH;eHRtw&gt;rRvd</span>
-        <span class="k2"> td. bSH; eHR t w&gt; rR vd td. 0J oX zk vX t rh&gt; wDR 'd.&lt; AwDR qH; 'D; wDR cX. o; M. vDRI Aw&gt; qX u wD&gt; rh&gt; 0J rk&gt; td. bSH; t eHR *DR 11;30 AwkR [g 2;30 e. &amp;H. M. vDRI</span>
+        <span class="k2"> td. bSH; eHR t w&gt; rR vd td. 0J oX zk vX t rh&gt; wDR &apos;d.&lt; AwDR qH; &apos;D; wDR cX. o; M. vDRI Aw&gt; qX u wD&gt; rh&gt; 0J rk&gt; td. bSH; t eHR *DR 11;30 AwkR [g 2;30 e. &amp;H. M. vDRI</span>
     </div>
   )
 }

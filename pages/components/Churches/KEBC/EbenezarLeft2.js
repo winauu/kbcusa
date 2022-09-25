@@ -1,4 +1,3 @@
-import React from 'react'
 
 function EbenezarLeft2() {
   return (
@@ -12,7 +11,7 @@ function EbenezarLeft2() {
         <span class="k2">
         <br/>
         1IA w &gt; td. zSd. o; yS&gt;A= A<br/>
-        o &amp;. rl 'h =A<br/>
+        o &amp;. rl &apos;h =A<br/>
         </span>
         <span className='font-sans'>720-469-7107</span>
         <span class="k2"> <br/>

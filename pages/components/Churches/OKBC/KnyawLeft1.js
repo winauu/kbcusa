@@ -8,7 +8,7 @@ function KnyawLeft1() {
       <br/>
       <span class="kh2">td.bSH;eHRtw&gt;rRvd </span><span class="k2"> 
       <br/>
-      td. bSH; eHR t w&gt; rR vd td. 0J cH zk vX t rh&gt; zd o. t 'd. w zk 'D; t qH; w zk M. vDRI Aw&gt; p; xD. tDR zJ rk&gt; td. bSH; eHR rk&gt; xl.A 12;00 Ae. &amp;H. wD wD M. vDRI</span><br/>
+      td. bSH; eHR t w&gt; rR vd td. 0J cH zk vX t rh&gt; zd o. t &apos;d. w zk &apos;D; t qH; w zk M. vDRI Aw&gt; p; xD. tDR zJ rk&gt; td. bSH; eHR rk&gt; xl.A 12;00 Ae. &amp;H. wD wD M. vDRI</span><br/>
       </p>
     </div>
   )

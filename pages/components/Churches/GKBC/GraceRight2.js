@@ -1,4 +1,3 @@
-import React from 'react'
 
 function GraceRight2() {
   return (
@@ -25,8 +24,8 @@ function GraceRight2() {
         eJ. %GJ. A= AeD&gt; bsJ.<br/>
         eJ. %GJ. o CJR A=A eD&gt; qX u yDR vlA<br/>
         ySR yXR phA =A zH eD&gt; tJ.A<br/>
-        ySR orH o rd; ph A=A eD&gt; tJ e&gt; pd&nbsp;'D; eD&gt; p uH xX.AA </span><br/>
-        <span class="k2">ydmrk. u&amp;X&nbsp; u rH; wHm w z. t rHRA= Ao; yS. rk. zD q.&lt;A o; yS. rk. tJ. 'd. zD&lt;A o; yS. rk. ySJR zd&lt;A o &amp;. rk. cFJ. &amp;H. zD&lt;A o &amp;. rk. jyH xl&lt;A o; yS&gt; rk. zD CH vR&lt;A o; yS. rk. qX ck.&lt;A eD&gt; qX ck. rl&lt;A eD&gt; u nD zD pd A </span><br/>
+        ySR orH o rd; ph A=A eD&gt; tJ e&gt; pd&nbsp;&apos;D; eD&gt; p uH xX.AA </span><br/>
+        <span class="k2">ydmrk. u&amp;X&nbsp; u rH; wHm w z. t rHRA= Ao; yS. rk. zD q.&lt;A o; yS. rk. tJ. &apos;d. zD&lt;A o; yS. rk. ySJR zd&lt;A o &amp;. rk. cFJ. &amp;H. zD&lt;A o &amp;. rk. jyH xl&lt;A o; yS&gt; rk. zD CH vR&lt;A o; yS. rk. qX ck.&lt;A eD&gt; qX ck. rl&lt;A eD&gt; u nD zD pd A </span><br/>
         <br/>
       <span class="k2"><strong>usJ;  pX; u&amp;X </strong><br/>
         usJ; pX; u&amp;X  cd. A 1A = pDR vg xl<br/>

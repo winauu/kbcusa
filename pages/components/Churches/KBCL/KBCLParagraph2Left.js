@@ -17,7 +17,7 @@ function KBCLParagraph2Left() {
        <br/>
        <br/>
        2IA w&gt; td. zSd. eJ. %GJ.A = A<br/>
-       o &amp;. ed. 'hA=A <br/>
+       o &amp;. ed. &apos;hA=A <br/>
        </span><span className='font-sans'>402- 601-9414 <br/><br/>
         </span>
 

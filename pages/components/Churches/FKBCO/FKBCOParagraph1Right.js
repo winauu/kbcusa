@@ -1,4 +1,4 @@
-import React from &apos;react&apos;
+
 
 function FKBCOParagraph1Right() {
   return (

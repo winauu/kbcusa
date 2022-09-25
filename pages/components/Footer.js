@@ -61,8 +61,8 @@ function Footer() {
         <div className='flex flex-col py-5'>
           <h1 className='font-sans text-purple-500 text-xl pb-2'>Home</h1>
           {footerLinks.map(link => (
-            <Link href={`${link.link}`}>
-              <p key={link.id} className='hover:text-purple-500 cursor-pointer'>{link.title}</p>
+            <Link key={link.id} href={`${link.link}`}>
+              <p className='hover:text-purple-500 cursor-pointer'>{link.title}</p>
             </Link>
           ))}
         </div>

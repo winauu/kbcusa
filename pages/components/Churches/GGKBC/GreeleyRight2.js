@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function GreeleyRight2() {
   return (
@@ -9,7 +9,7 @@ function GreeleyRight2() {
         ydm rk. u&amp;X cd. rh&gt; 0J A=A o &amp;.  rk. ed bX. <br/>
         eJ. %GJ. A= Ao&amp;. rk. q. zD <br/>
         ySR yXR ph A=Arl cd. zD rd&gt;&nbsp; <br/>
-        c&amp;Hm zd w&gt; od. vd ySR b. rl b. 'g A=A o&amp;. rk. ed bX.<br/>
+        c&amp;Hm zd w&gt; od. vd ySR b. rl b. &apos;g A=A o&amp;. rk. ed bX.<br/>
       <br/>
       </p>
     </div>
