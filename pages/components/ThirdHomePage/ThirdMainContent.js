@@ -1,5 +1,6 @@
 import React from 'react'
 import HomePagePastorsImg from '../HomePagePastorsImg'
+import Image from 'next/image'
 
 function ThirdMainContent() {
   return (
