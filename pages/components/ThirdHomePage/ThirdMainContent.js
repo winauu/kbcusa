@@ -1,11 +1,9 @@
 import React from 'react'
 import HomePagePastorsImg from '../HomePagePastorsImg'
-import Image from 'next/image'
 
 function ThirdMainContent() {
   return (
     <div>
-    <Image src='/images/FirstlinkImage/firstLinkImg.jpg' width={1024} height={260} alt='firstLinkImg'/>
       <div className='flex flex-wrap w-3/4 p-2 gap-5 mx-auto'>
         <HomePagePastorsImg img='/images/ThirdLinkImages/KweKbawLay.jpg' definition='loremh akija hdslo aoiu ahd' alt='KweKbawLay'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/Nuyttin.jpg' definition='loremh akija hdslo aoiu ahd' alt='Nuyttin'/>
