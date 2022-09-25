@@ -3,22 +3,22 @@ import Image from 'next/image'
 import Link from 'next/link'
 function MainContentLeftSide() {
   return (
-    <div className='flex flex-col border-r-[1px] gap-y-5 pr-2 border-black w-[250px]'>
+    <div className='flex flex-col border-r-[1px] gap-y-5 pr-2 border-black w-[280px]'>
       <Image src='/images/homePageLeftSideImages/sidebarpic.gif' width='245px' height='81px' alt='sidebarpic'/>
       <Image src='/images/homePageLeftSideImages/adstitle.gif' width='245px' height='33px' alt='adstitle'/>
       <Link href="https://www.facebook.com/lermumar/">
         <a target="_blank" className='hover:cursor-pointer'>
-          <Image src='/images/homePageLeftSideImages/facebook.gif' width='245px' height='81px' alt='facebook'/>
+          <Image src='/images/homePageLeftSideImages/facebook.gif' width='270px' height='81px' alt='facebook'/>
         </a>
       </Link>
       <Link href="/components/Calendar/Calender">
         <a target="_blank" className='hover:cursor-pointer'>
-          <Image src='/images/homePageLeftSideImages/Calendar.gif' width='245px' height='81px' alt='calender'/>
+          <Image src='/images/homePageLeftSideImages/Calendar.gif' width='270px' height='81px' alt='calender'/>
         </a>
       </Link>
       <Link href="/resources/Meeting_report/KTSC Application Form.pdf">
         <a target="_blank">
-          <Image src='/images/homePageLeftSideImages/KTSC Application form.gif'width='245px' height='81px' alt='applicationform'/>
+          <Image src='/images/homePageLeftSideImages/KTSC Application form.gif'width='270px' height='81px' alt='applicationform'/>
         </a>
       </Link>
       <Link href='/resources/Meeting_report/Meeting 10/Phone meeting for CN training second time.pdf'>
@@ -56,16 +56,16 @@ function MainContentLeftSide() {
       </Link>
 
      
-      <Image src='/images/homePageLeftSideImages/reporttitle.gif'width='245px' height='33px' alt='reportitle'/>
+      <Image src='/images/homePageLeftSideImages/reporttitle.gif'width='270px' height='33px' alt='reportitle'/>
       <Link href='/components/SeventhHomePage/SeventhHomePage'>
         <h1 className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>uvHRpd;cX.o;u0DR unDbsXxHc&Hmzdw{'>'}td.zSd. tw{'>'}uGJ;eD.wz.</h1>
       </Link>
-      <iframe width="245" height="170"
+      <iframe width="270" height="170"
         src="https://www.youtube.com/embed/videoseries?list=PLiS_aW9RRE7tEvKKh2oKZ55Her7cfw9I7">
       </iframe>
       <Link href="https://www.facebook.com/lermumar/?ref=hl">
         <a target="_blank">
-          <Image src='/images/homePageLeftSideImages/facebook3.jpg'width='245px' height='130px' alt='facebook3'/>
+          <Image src='/images/homePageLeftSideImages/facebook3.jpg'width='270px' height='130px' alt='facebook3'/>
         </a>
       </Link>
     </div>
