@@ -64,7 +64,7 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
               <p className='font-sans'>720-216-3173</p>
               <div className='flex items-center pt-5'>
                 <p className='font-sans'>Email provider: </p>
-                <Image src='/images/emailjs-removebg-preview (1).png' width='90px' height='80px' alt='emailjs'/><span className='font-bold text-orange-500 font-sans'>EmailJs</span>
+                <Image src='/images/emailjs-removebg-preview(1).png' width='90px' height='80px' alt='emailjs'/><span className='font-bold text-orange-500 font-sans'>EmailJs</span>
               </div>
             </div>
            </div>

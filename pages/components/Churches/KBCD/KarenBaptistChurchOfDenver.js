@@ -21,7 +21,7 @@ function KarenBaptistChurchOfDenver() {
     <div className='flex bg-white'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 
-        pic="/images/KarenBaptistChurchOfDenverImage/Lar Moo.jpg"
+        pic="/images/KarenBaptistChurchOfDenverImage/LarMoo.jpg"
         description="o&.tgpJ;rllw>td.zSd.o&."
         title2="w> bg t qX u wD>"
         title3="vXw>qJ;usd;t*D>"

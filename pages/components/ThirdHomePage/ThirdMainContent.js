@@ -12,9 +12,9 @@ function ThirdMainContent() {
         <HomePagePastorsImg img='/images/ThirdLinkImages/MooDay.jpg' definition='loremh akija hdslo aoiu ahd' alt='Mooday'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/PoTuJu.jpg' definition='loremh akija hdslo aoiu ahd' alt='poTuJu'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/preehtoo.gif' definition='ဘၣ်ဆိၣ်ဂ့ၤကညီီဘျၢ' alt='preehtoo'/>
-        <HomePagePastorsImg img='/images/ThirdLinkImages/The Blay Moo.jpg' definition='loremh akija hdslo aoiu ahd' alt='blaymoo'/>
-        <HomePagePastorsImg img='/images/ThirdLinkImages/Thar Julia.jpg' definition='loremh akija hdslo aoiu ahd' alt='julia'/>
-        <HomePagePastorsImg img='/images/ThirdLinkImages/Thar Moo Star.jpg' definition='loremh akija hdslo aoiu ahd' alt='moostar'/>
+        <HomePagePastorsImg img='/images/ThirdLinkImages/TheBlayMoo.jpg' definition='loremh akija hdslo aoiu ahd' alt='blaymoo'/>
+        <HomePagePastorsImg img='/images/ThirdLinkImages/TharJulia.jpg' definition='loremh akija hdslo aoiu ahd' alt='julia'/>
+        <HomePagePastorsImg img='/images/ThirdLinkImages/TharMooStar.jpg' definition='loremh akija hdslo aoiu ahd' alt='moostar'/>
       </div>
     </div>
   )
