@@ -18,7 +18,7 @@ function DeverRight2() {
         1IA ySR yXR  vD&gt; qh. eDR = zH %SJ zD <br/>
         2IA ySR yXR vD&gt; qh. eDR cH *R w *R = o  &amp;. rk. zD ck. ck. <br/>
         3IA eJ. %GJ. = o  &amp;. rk. tJ. *hR uFL<br/>
-        4IA eJ. %GJ.&nbsp;  o CJR = o &amp;. r. tJ. {&apos;}&apos;}xd. <br/>
+        4IA eJ. %GJ.&nbsp;  o CJR = o &amp;. r. tJ. &apos;&apos;xd. <br/>
         5IA ySR yXR ph =  zH u. th <br/>
         6IA ySR o rH ord; ph =&nbsp; o  &amp;. rk. zD oH. &apos;D; o &amp;. rk. ph rF; xl w z. M. vDRIA <br/>
         <br/>

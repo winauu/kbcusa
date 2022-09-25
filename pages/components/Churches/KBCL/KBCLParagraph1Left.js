@@ -11,7 +11,7 @@ function KBCLParagraph1Left() {
             <span class="nu">Worship Services<br/>
             Sunday - 12:30 PM<br/>
             Wed (5:00 PM) - Mid-week worship<br/>
-            Saturday - Visiting and Worshiping at member's house
+            Saturday - Visiting and Worshiping at member&apos;s house
             </span>
         </p>
         <br/>
