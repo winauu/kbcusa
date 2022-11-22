@@ -168,6 +168,69 @@ function Footer() {
         <h1 className='font-sans text-center'>Web Design by <span className='font-KNU text-2xl'>ဝ့မၠံၣ်အီၤ</span> (Win Aung)</h1>
       </div>
     </div>
+
+
+// <div class="overflow-x-auto relative font-sans">
+//     <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+//         <thead class="text-xs text-gray-700 uppercase bg-gray-100 dark:bg-gray-700 dark:text-gray-400">
+//             <tr>
+//                 <th scope="col" class="py-3">
+//                     Product name
+//                 </th>
+//                 <th scope="col" class="py-3 px-6">
+//                     Qty
+//                 </th>
+//                 <th scope="col" class="py-3 px-6">
+//                     Price
+//                 </th>
+//             </tr>
+//         </thead>
+//         <tbody>
+//             <tr class="bg-white dark:bg-gray-800">
+//                 <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+//                     Apple MacBook Pro 17"
+//                 </th>
+//                 <td class="py-4 px-6">
+//                     1
+//                 </td>
+//                 <td class="py-4 px-6">
+//                     $2999
+//                 </td>
+//             </tr>
+//             <tr class="bg-white dark:bg-gray-800">
+//                 <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+//                     Microsoft Surface Pro
+//                 </th>
+//                 <td class="py-4 px-6">
+//                     1
+//                 </td>
+//                 <td class="py-4 px-6">
+//                     $1999
+//                 </td>
+//             </tr>
+//             <tr class="bg-white dark:bg-gray-800">
+//                 <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+//                     Magic Mouse 2
+//                 </th>
+//                 <td class="py-4 px-6">
+//                    1
+//                 </td>
+//                 <td class="py-4 px-6">
+//                     $99
+//                 </td>
+//             </tr>
+//         </tbody>
+//         <tfoot className='bg-white'>
+//             <tr class="font-semibold text-gray-900 dark:text-white">
+//                 <th scope="row" class="py-3 px-6 text-base">Total</th>
+//                 <td class="py-3 px-6">3</td>
+//                 <td class="py-3 px-6">21,000</td>
+//             </tr>
+//         </tfoot>
+//     </table>
+// </div>
+
+    
   )
 }
 
