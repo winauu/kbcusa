@@ -13,9 +13,6 @@ function Navbar() {
           <Link href="/components/SecondHomePage/SecondHomePage">
             <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ဘၣ်ဃးဒီးကဝီၤအံၤ</h1>
           </Link>
-          <Link href="/components/SecondHomePage/SecondHomePage">
-            <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ql y ySm ,JR o M </h1>
-          </Link>
         <Link href="/components/ThirdHomePage/ThirdHomePage">
           <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ကဝီၤကမံးတံာ်</h1>
         </Link>
