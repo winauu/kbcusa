@@ -7,7 +7,7 @@ function SecondMainContent() {
       <Image src='/images/FirstlinkImage/firstLinkImg.jpg' width={1024} height={260} alt='firstLinkImg'/>
       <div className='min-h-screen bg-white p-2'>
           <div className='w-3/4 mx-auto'>
-            <h1 className='text-red-500 text-3xl text-center py-3'>uvHRpd;cX.o;u0DR w>pH.pdRubsH;yR</h1>
+            <h1 className='text-red-500 text-3xl text-center py-3'>uvHRpd;cX.o;u0DR w{'>'}pH.pdRubsH;yR</h1>
             <hr className='font-bold text-3xl w-3/4 mx-auto border-[1px] border-black mb-3'/>
             <p>dsfafdsa</p>
             <p className='indent-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam officia 
