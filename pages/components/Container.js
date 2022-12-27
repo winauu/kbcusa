@@ -8,7 +8,7 @@ import MainContent from './FirstHomePage/MainContent'
 
 const Container = () => {
   return (
-    <div className='w-[1023px] mx-auto min-h-screen'>
+    <div className='font-[KNU] w-[1023px] mx-auto min-h-screen'>
         <Header/>
         <Navbar/>
         <MainContent/>
