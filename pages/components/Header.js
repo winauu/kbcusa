@@ -10,7 +10,6 @@ function Header() {
         <div className='text-4xl'>
           <h1 className='font-sans pb-3'>Central North Area</h1>
           <p>ခၢၣ်သးကလံၤကဝီၤ</p>
-          <p className='font-sans'>Header</p>
         </div>
         <div>
           <h1 className='header-font text-6xl text-red-600 shadow'>KBCUSA</h1>

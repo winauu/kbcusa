@@ -2,17 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
-    @font-face {
-        font-family: 'KNU';
-        src: url('/fonts/knu.ttf') format('ttf');
-    }
-}
 
 body{
     background-color: #323a3f;
     padding: 0;
     margin: 0;
+    font-family: 'Pacifico', cursive;
 }
 .bg{
     background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/pexels-lumn-167699.jpg');
