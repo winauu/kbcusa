@@ -2,9 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-    font-family: KNU;
-    src: url(knu.ttf);
+@layer base{
+    @font-face {
+        font-family: 'KNU';
+        src: url('/fonts/knu.ttf') format('ttf');
+    }
 }
 
 body{

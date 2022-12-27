@@ -6,7 +6,7 @@ import { FaHome } from 'react-icons/fa';
 
 function Navbar() {
   return (
-    <div className='font-[KNU] bg-gray-800 flex justify-center items-center space-x-4 text-white h-12 z-50'>
+    <div className=' bg-gray-800 flex justify-center items-center space-x-4 text-white h-12 z-50'>
         <Link href="/">
           <FaHome className='w-8 h-8 hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'/>
         </Link>
@@ -14,7 +14,7 @@ function Navbar() {
             <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ဘၣ်ဃးဒီးကဝီၤအံၤ</h1>
           </Link>
           <Link href="/components/SecondHomePage/SecondHomePage">
-            <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ql y ySm ,JR o M </h1>
+            <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2 font-knu'>ql y ySm ,JR o M </h1>
           </Link>
         <Link href="/components/ThirdHomePage/ThirdHomePage">
           <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ကဝီၤကမံးတံာ်</h1>
