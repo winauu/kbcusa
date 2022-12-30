@@ -12,11 +12,11 @@ import KCKKBCparagraph2Right from './KCKKBCparagraph2Right'
 
 function KansasCityKansasKarenBaptistChurch() {
   return (
-    <div className='w-[1023px] mx-auto min-h-screen px-10'>
+    <div className='w-[1023px] mx-auto min-h-screen'>
     <Header/>
     <Navbar/>
     <Image src='/images/KansasCityKansasKarenBaptistChurch/KansasCityKansasKarenBaptistChurch.gif' width={1024} height={260} alt='greeley'/>
-    <div className='flex bg-white'>
+    <div className='flex bg-white px-40'>
       <ContentTemplatesLeft
           title="w>td.zSd.o&." 
           pic="/images/homePageRightSideImages/pastor-1.gif"
