@@ -15,7 +15,7 @@ function EmmanuelKarenBaptistChurch() {
     <Header/>
     <Navbar/>
     <Image src='/images/EmmanuelKarenBaptistChurch/EmmanuelKarenBaptistChurch.gif' width={1024} height={260} alt='omaha'/>
-    <div className='flex bg-white'>
+    <div className='flex bg-white px-10'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 
         pic="/images/homePageRightSideImages/TharHsaEhWah.gif"
