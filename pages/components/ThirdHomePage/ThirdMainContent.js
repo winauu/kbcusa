@@ -3,8 +3,8 @@ import HomePagePastorsImg from '../HomePagePastorsImg'
 
 function ThirdMainContent() {
   return (
-    <div className='w-3/4 mx-auto'>
-      <div className='flex flex-wrap gap-5 p-2'>
+    <div className=''>
+      <div className=''>
         <HomePagePastorsImg img='/images/ThirdLinkImages/KweKbawLay.jpg' definition='o&.&apos;d.uGJ&gt;ubDvh u. u0DRcd.' alt='KweKbawLay'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/Nuyttin.jpg' definition='o&.&apos;d.rgnd.wh. Au0DRcd.c' alt='Nuyttin'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/panawdee.jpg' definition='o&.zged. &apos;hu0DReJ%GJ.' alt='panawdee'/>
