@@ -27,16 +27,16 @@ A(0h> vh cX.)' alt='Isaac' link="/components/Churches/KBCL/KarenBaptistChurchOfL
         <HomePagePastorsImg img='/images/homePageRightSideImages/NayLinTun.jpg' definition="-uH vh b. qd. *hR w rSHR w> td. zSd.
 A(0h>-uHvh)" alt='NayLinTun' link="/components/Churches/GGKBC/GreeleyGraceKarenBaptistChurch"/>
         <HomePagePastorsImg img='/images/homePageRightSideImages/Debora.jpg' definition="unDbsXxH c&Hm zd thR bhR M p> w> td. zSd. (cd.vd.&.'d>)" alt='debora' link="/components/Churches/KEBC/KarenEbenezerBaptistChurch"/> 
-        <HomePagePastorsImg img='/images/homePageRightSideImages/EhNayMoo.jpg' definition="xH*X>eHRunDbsXxHc& Hmzdw>td.zSd.(0h> td. r [.)" alt='EhNayMoo' link="/"/> 
+        <HomePagePastorsImg img='/images/homePageRightSideImages/EhNayMoo.jpg' definition="xH*X>eHRunDbsXxHc& Hmzdw>td.zSd.(0h> td. r [.)" alt='EhNayMoo' link="/components/Churches/HGNKBC/HteeGerNeeKarenBaptistChurch"/> 
         <HomePagePastorsImg img='/images/homePageRightSideImages/TeeMohBwarKarenBaptistChurch.jpg' definition="xHrd>yS>unDbsXxH
 c& Hmzdw>td.zSd.
-(0h> td. r [.)" alt='TeeMohBwar' link="/"/> 
+(0h> td. r [.)" alt='TeeMohBwar' link="components/Churches/TMBKBC/TeeMohBwarKarenBaptistChurch"/> 
         <HomePagePastorsImg img='/images/homePageRightSideImages/TharHsaEhWah.gif' definition="{hRrREkRthv; unDbsXxH
 c& Hmzdw>td.zSd.
-(0h> td. r [.)" alt='EhWah' link="/"/>
+(0h> td. r [.)" alt='EhWah' link="/components/EKBC/EmmanuelKarenBaptistChurch"/>
         <HomePagePastorsImg img='/images/homePageRightSideImages/pastor-1.gif' definition="cJpX.pH;xHRcJpX.unDbsXxH
 c&Hmzdw>td.zSd.
-(0h> cJpJX.)" alt='paster-1'link="/"/> 
+(0h> cJpJX.)" alt='paster-1'link="/components/Churches/KCKKBC/KansasCityKansasKarenBaptistChurch"/> 
       </div>
     </div>
   )
