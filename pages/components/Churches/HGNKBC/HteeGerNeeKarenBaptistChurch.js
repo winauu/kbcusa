@@ -16,7 +16,7 @@ function HteeGerNeeKarenBaptistChurch() {
     <Header/>
     <Navbar/>
     <Image src='/images/TeeGerNeeKarenBaptistChurch/TeeGerNeeKarenBaptistChurch.jpeg' width={1024} height={260} alt='omaha'/>
-    <div className='flex bg-white px-10'>
+    <div className='flex bg-white px-20'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 
         pic="/images/homePageRightSideImages/EhNayMoo.jpg"

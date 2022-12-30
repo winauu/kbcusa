@@ -16,7 +16,7 @@ function KansasCityKansasKarenBaptistChurch() {
     <Header/>
     <Navbar/>
     <Image src='/images/KansasCityKansasKarenBaptistChurch/KansasCityKansasKarenBaptistChurch.gif' width={1024} height={260} alt='greeley'/>
-    <div className='flex bg-white px-10'>
+    <div className='flex bg-white px-20'>
       <ContentTemplatesLeft
           title="w>td.zSd.o&." 
           pic="/images/homePageRightSideImages/pastor-1.gif"
