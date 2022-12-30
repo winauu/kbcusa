@@ -42,7 +42,7 @@ function SecondMainContent() {
             o&.rk.&apos;g tJ.qd AeJ.&GJ. o&.vgph wz.M.vDRIA u 0DR cd. e&gt; w z. u b. w&gt; Ck xX tDRA 3 A eH. w bsD M. vDRI u 0DR t w&gt; wdm xl tqduwX&gt;  rh&gt; 0J  AxgpH;xD.y -wXRA118;13 ? yurRw&gt;&apos;D; w&gt; *H&gt; ql. bg ql.vX ,GR vDRI/  
             A&apos;D;xg t oD A278 AM.vDRI  w&gt;CkxXxD.u 0DR t w&gt; wdm xlcDzsdw&gt;bk;rJ&apos;D; w&gt;zD.b.0JvX o &. wD wD pd qSXxD.0JM. vDRIAA <span className='font-sans text-sm'>KBCUSA</span> [h.w&gt;ysJ tCd A zJu0DRw&gt;td.zSd. (5)0Dw0D 
             <span className='font-sans text-sm'>,</span>Avg, ElR tg &HR A28 oD <span className='font-sans text-sm'>,</span> 2012eH.<span className='font-sans text-sm'>,</span> vXtvDRb.zJ A-uHvH R unDbsXxHc&Hmzd w&gt;td.zSd.<span className='font-sans text-sm'>,</span> 
-            cdRvdR&R'dRAAtcg AunDw&gt;td.zSd.zJArH.pl;&H uD&gt; pJ.A[JEkm rR oud;w&gt; &apos;D; yu 0DRM. vDRI AtCd yu0DR t ylR uD&gt;pJ. vX trR o ud; w&gt;td.0JA 3 Abh. vXtrh&gt; (Colorado, Nebraska, Missouri ) wz. M.vDRI Ayu0DRylR Aytd.&apos;D; 0JRusdR&apos;ftrh&gt; ydmrk. 0JRusdR <span className='font-sans text-sm'>,</span> 
+            cdRvdR&R&apos;dRAAtcg AunDw&gt;td.zSd.zJArH.pl;&H uD&gt; pJ.A[JEkm rR oud;w&gt; &apos;D; yu 0DRM. vDRI AtCd yu0DR t ylR uD&gt;pJ. vX trR o ud; w&gt;td.0JA 3 Abh. vXtrh&gt; (Colorado, Nebraska, Missouri ) wz. M.vDRI Ayu0DRylR Aytd.&apos;D; 0JRusdR&apos;ftrh&gt; ydmrk. 0JRusdR <span className='font-sans text-sm'>,</span> 
             o;p&gt; 0JRusdR <span className='font-sans text-sm'>,</span> cIw 0JRusdR A&apos;D; w&gt;o;ck upD.0JR usdRwz. M.vDRI
             </p>
 
@@ -73,7 +73,7 @@ function SecondMainContent() {
             </p>
             <p className='pt-3'>yu0DRw&gt;td.zSd.wz.rh&gt;0J =</p>
             <ol className=''>
-                <li><a className='underline hover:text-blue-500 hover:cursor-pointer'>1I&apos;hbX&gt;unDbsXxHc&Hmzdw&gt;td.zSd.<span className='font-sans text-sm'>,</span></a>Aw&gt;td.zSd.o&.=o&.'d.vX&gt;rl r.wh.</li>
+                <li><a className='underline hover:text-blue-500 hover:cursor-pointer'>1I&apos;hbX&gt;unDbsXxHc&Hmzdw&gt;td.zSd.<span className='font-sans text-sm'>,</span></a>Aw&gt;td.zSd.o&.=o&.&apos;d.vX&gt;rl r.wh.</li>
                 <li><a className='underline hover:text-blue-500 hover:cursor-pointer'>2I thRbhehp&gt;unDbsXxHc&Hmzdw&gt;td.zSd.<span className='font-sans text-sm'>,</span></a>Aw&gt;td.zSd.o&.= o&.rk.&apos;d.&apos;bd&R</li>
                 <li><a className='underline hover:text-blue-500 hover:cursor-pointer'>3I Ao&dmwXunDbsXxHc&Hmzdw&gt;td.zSd.td.r[.<span className='font-sans text-sm'>,</span></a>Aw&gt;td.zSd.o&. = o&.&apos;d.rgnd.wh.</li>
                 <li><a className='underline hover:text-blue-500 hover:cursor-pointer'>4I td.r[.unDbsXxHc&Hmzdw&gt;td.zSd. <span className='font-sans text-sm'>,</span></a>Aw&gt;td.zSd.o&. = o&.&apos;d.uGJRxl</li>
