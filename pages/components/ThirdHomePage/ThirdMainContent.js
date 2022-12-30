@@ -16,6 +16,8 @@ function ThirdMainContent() {
         <HomePagePastorsImg img='/images/ThirdLinkImages/TharJulia.jpg' definition='o&.uFLvH,X. u0DRySRuGJ;eD.w>' alt='julia'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/TharMooStar.jpg' definition='o&. rlpwg u0DRySRuGJ;eD.w>' alt='moostar'/>
       </div>
+      <div className='opacity-0'>
+
       <div>
         sfdk;kdafsk
         fasdfklsa;
@@ -195,6 +197,7 @@ function ThirdMainContent() {
       <div>
         sfdk;kdafsk
         fasdfklsa;
+      </div>
       </div>
     </div>
   )
