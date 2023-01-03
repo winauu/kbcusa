@@ -11,7 +11,7 @@ function Navbar() {
           <FaHome className='w-8 h-8 hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'/>
         </Link>
           <Link href="/components/SecondHomePage/SecondHomePage">
-            <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ဘၣ်ဃးဒီးကဝီၤအံၤ</h1>
+            <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>sdaဘၣ်ဃးဒီးကဝီၤအံၤ</h1>
           </Link>
         <Link href="/components/ThirdHomePage/ThirdHomePage">
           <h1 className='hover:text-purple-500 hover:bg-opacity-50 hover:cursor-pointer text-gray-400 border-r-2 pr-2'>ကဝီၤကမံးတံာ်</h1>
